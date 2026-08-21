@@ -1,0 +1,28 @@
+{
+  "repo": "apple-one-premier-family-bundle",
+  "product": "Apple One Premier Family Bundle",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://apple-one.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "apple-guide",
+    "apple-download-page",
+    "apple-desktop",
+    "setup-apple-windows",
+    "apple-getting-started",
+    "apple-update",
+    "documentation",
+    "install-guide",
+    "download-page",
+    "faq",
+    "workflow",
+    "toolkit",
+    "utility"
+  ],
+  "stars_cache": 13,
+  "nexpath_slug": "apple-one",
+  "nexpath_app_name": "Apple One"
+}
